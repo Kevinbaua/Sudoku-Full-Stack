@@ -14,4 +14,4 @@ Demo Link: https://drive.google.com/drive/folders/1EtT3taMv6xfdShwhCJWUVQyxRSLvH
 - You can Register/Login to save your data
 - Leaderboards which show Top 5 players based on Scores, Number of Games played and Time taken to solve current game.
 - Load game using text file (Game string format: a txt file containing 81 comma separated integers between 1 to 9. Enter -1 for empty space)
-- Automatic Sovler built-in
+- Automatic Solver built-in
